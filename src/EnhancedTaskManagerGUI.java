@@ -192,6 +192,7 @@ public class EnhancedTaskManagerGUI extends JFrame {
             } catch (Exception e) {
                 e.printStackTrace();
             }
+
             new EnhancedTaskManagerGUI();
         });
     }
